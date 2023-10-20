@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},},
+    {"id":{"name":"spr_eggy","path":"sprites/spr_eggy/spr_eggy.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
   ],
   "RoomOrderNodes": [
