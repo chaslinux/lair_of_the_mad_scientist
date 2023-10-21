@@ -15,8 +15,17 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Enemies","order":3,"path":"folders/Objects/Enemies.yy",},
+    {"name":"Environment","order":4,"path":"folders/Objects/Environment.yy",},
+    {"name":"Enemies","order":3,"path":"folders/Sprites/Enemies.yy",},
+    {"name":"Environment","order":4,"path":"folders/Sprites/Environment.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_eggy","order":1,"path":"sprites/spr_eggy/spr_eggy.yy",},
+    {"name":"obj_handy","order":1,"path":"objects/obj_handy/obj_handy.yy",},
+    {"name":"spr_marshy","order":2,"path":"sprites/spr_marshy/spr_marshy.yy",},
+    {"name":"obj_vikken","order":3,"path":"objects/obj_vikken/obj_vikken.yy",},
+    {"name":"spr_handy","order":1,"path":"sprites/spr_handy/spr_handy.yy",},
+    {"name":"spr_vikken","order":3,"path":"sprites/spr_vikken/spr_vikken.yy",},
+    {"name":"obj_marshy","order":2,"path":"objects/obj_marshy/obj_marshy.yy",},
   ],
 }
