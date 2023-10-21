@@ -24,13 +24,18 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_handy","order":1,"path":"objects/obj_handy/obj_handy.yy",},
+    {"name":"spr_bullet","order":1,"path":"sprites/spr_bullet/spr_bullet.yy",},
+    {"name":"snd_marshy","order":3,"path":"sounds/snd_marshy/snd_marshy.yy",},
+    {"name":"rm_game_over","order":1,"path":"rooms/rm_game_over/rm_game_over.yy",},
     {"name":"snd_handy","order":2,"path":"sounds/snd_handy/snd_handy.yy",},
     {"name":"spr_marshy","order":2,"path":"sprites/spr_marshy/spr_marshy.yy",},
     {"name":"spr_light","order":1,"path":"sprites/spr_light/spr_light.yy",},
     {"name":"obj_vikken","order":3,"path":"objects/obj_vikken/obj_vikken.yy",},
     {"name":"spr_handy","order":1,"path":"sprites/spr_handy/spr_handy.yy",},
+    {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
     {"name":"spr_vikken","order":3,"path":"sprites/spr_vikken/spr_vikken.yy",},
     {"name":"snd_get_cracking","order":1,"path":"sounds/snd_get_cracking/snd_get_cracking.yy",},
+    {"name":"obj_restart","order":1,"path":"objects/obj_restart/obj_restart.yy",},
     {"name":"obj_marshy","order":2,"path":"objects/obj_marshy/obj_marshy.yy",},
   ],
 }

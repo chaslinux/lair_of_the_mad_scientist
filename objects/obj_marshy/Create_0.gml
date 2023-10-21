@@ -5,3 +5,5 @@
 
 direction = choose (0,90,180,270);
 speed = 0.5;
+sound_played = 0;
+alarm[0]=0;
