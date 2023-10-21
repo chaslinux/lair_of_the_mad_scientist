@@ -13,13 +13,6 @@ var yinput = _down - _up;
 x += xinput * player_speed;
 y += yinput * player_speed;
 
-//if (xinput != 0 or yinput != 0)
-//{
-//	image_speed = 2;	
-//} else {
-//	image_speed = 0;
-//}
-
 if (_left)
 {
 	image_speed = player_speed / 3;

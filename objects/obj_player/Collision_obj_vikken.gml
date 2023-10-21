@@ -1,9 +1,13 @@
 /// @description Return to start position
 
 instance_destroy();
+global.lives -= 1;
 
-if (global.lives > 0)
+if (global.lives <=0)
 {
-	global.lives -=1;
-	instance_create_layer(xstart,ystart,"Instances",obj_player);
+	room_goto(rm_game_over);	
 }
+else if (global.lives > 0)
+{
+	instance_create_layer(xstart,ystart,"Instances",obj_player);
+} 

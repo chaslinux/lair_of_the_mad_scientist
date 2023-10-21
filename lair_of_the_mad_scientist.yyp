@@ -45,6 +45,7 @@
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},},
     {"id":{"name":"snd_marshy","path":"sounds/snd_marshy/snd_marshy.yy",},},
+    {"id":{"name":"obj_lives","path":"objects/obj_lives/obj_lives.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
     {"id":{"name":"snd_handy","path":"sounds/snd_handy/snd_handy.yy",},},
