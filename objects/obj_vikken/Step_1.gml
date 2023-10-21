@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-direction = direction - 180;
-speed = irandom_range(1,3);
-
-
+if (place_meeting(x+speed,y+speed,obj_wall))
+{
+	direction = direction - 180;	
+}
