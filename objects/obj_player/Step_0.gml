@@ -50,5 +50,9 @@ if (_fire)
 	bullet.direction = direction;
 	bullet.image_angle = direction;
 	bullet.speed = 15;
+	if (!audio_is_playing(snd_fire))
+	{
+		audio_play_sound(snd_fire,1,false)	;
+	}
 }
 #endregion
