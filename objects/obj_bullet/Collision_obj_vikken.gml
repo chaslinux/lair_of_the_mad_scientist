@@ -3,6 +3,7 @@
 
 
 instance_destroy();
+effect_create_above(ef_smoke,x,y,0.1,c_red);
 
 if (!audio_is_playing(snd_hit))
 {
